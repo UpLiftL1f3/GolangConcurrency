@@ -1,4 +1,4 @@
-### ChatGPT was used to generate this read me. minor editing was involved. Please note this work is not my own, but merely used to suggest that i have learned and covered many topics as it relates to golang. 
+### ChatGPT was used to generate this read me. minor editing was involved. Please note this work is not my own, but merely used to suggest that i have learned and covered many topics as it relates to golang. Credit TO AnthonyGG on Youtube for providing such an awesome and informative course
 
 # Course: Learning Go Programming - Creating UserProfile Struct
 In this course, I learned how to incorporate various fundamental concepts in Go programming to create a UserProfile struct. We covered the following key topics:
